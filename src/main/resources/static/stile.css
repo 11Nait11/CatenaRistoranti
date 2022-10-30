@@ -1,0 +1,11 @@
+#titolo {color:red}
+h1,h2{text-align:center}
+
+.sottolineato{text-decoration: underline;}
+
+figcaption > h3{ font-size: smaller; color:red}
+
+article{margin-left:5px;}
+
+/*prende il 100% del contenitore dove si trova*/
+img{width:100%;}
